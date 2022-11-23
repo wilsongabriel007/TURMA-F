@@ -5,9 +5,9 @@ body {
 
 
 #banner {
-    width: 60%;
-    heigth:360px;
- }
+    width:60%;
+   heigth:360px;
+  }
 
 .principal {
     background: #CCCCCC
@@ -57,5 +57,5 @@ em strong {
 
 
 .imagembeneficios {
-  width: 30%;
+  width: 50%;
  }
