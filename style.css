@@ -5,13 +5,12 @@ body {
 
 
 #banner {
-    width: 30%;
+    width: 60%;
  }
 
 .principal {
-
- background: #CCCCCC
- padding: 30px;
+    background: #CCCCCC
+    padding: 30px;
  }
 
 .titulo-principal {
