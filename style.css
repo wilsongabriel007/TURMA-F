@@ -1,6 +1,6 @@
 body {
      background: #CCCCCC
-}
+ }
 
 
 
@@ -27,34 +27,34 @@ body {
 p {
      text-align: center; 
      	
-}
+ }
 
 #diversao { 
    font-size: 20px
-}
+ }
 
 em strong {
  color: red;
-}
+ }
 
 .itens {
     font-style: italic;
-}
+ }
 
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
-}
+ }
 
 
-ul {
+ ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-}
+ }
 
 
 .imagembeneficios {
 width: 60%;
-}
+ }
