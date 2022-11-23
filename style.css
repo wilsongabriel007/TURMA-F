@@ -6,12 +6,12 @@ body {
 
 #banner {
     width: 60%;
- }
+     }
 
 .principal {
  background: #CCCCCC
- padding: 30px;
- }
+ padding: 30px; 
+  }
 
 
 .titulo-principal {
@@ -19,29 +19,29 @@ body {
  }
 .titulo-centralizado {
  text-align: center;
- }
+   }
 
 p {
      text-align: center; 
      	
- }
+     }
 
 #diversao { 
    font-size: 20px
- }
+     }
 
 em strong {
  color: red;
- }
+   }
 
 .itens {
     font-style: italic;
- }
+     }
 
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
- }
+     }
 
 
 ul {
@@ -49,9 +49,9 @@ ul {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
- }
+     }
 
 
 .imagembeneficios {
 width: 30%;
- }
+   }
