@@ -8,15 +8,15 @@ body {
     width: 60%;
      }
 
-.principal {
+ .principal {
  background: #CCCCCC
  padding: 30px; 
   }
 
 
-.titulo-principal {
+  .titulo-principal {
     padding-right: 20px;
- }
+     }
 .titulo-centralizado {
  text-align: center;
    }
