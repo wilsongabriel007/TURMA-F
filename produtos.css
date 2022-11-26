@@ -1,30 +1,54 @@
-header {
-    background: #BBBBBB;
-    padding: 20px 0;
- }
+KB
+ <!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Bicicletaria Wg</title>
 
-.caixa {
-    position: relative;
-    widht: 940px;
+		<link rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="style2.css">
+	</head>
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src="64B7FF0A-E011-4D36-9FE6-1226B63221DB.png"></h1>
 
-nav {
-    position: inline;
-    top: 110px;
-    right:0;
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
 
+		<main>
+			<ul class="produtos">
+				<li>
+					<h2>Bikes</h2>
+					<img src="assistencia.jpg">
+					<p class="produto-descricao">todos os tipos que você imaginar,vários modelos de bike aro 20,26,29 entre outras.</p>
+					<p class="produto-preco">conheça nossa bicicletaria!!</p>
+				</li>
+				<li>
+					<h2>Bicicletas </h2>
+					<img src="dispositivos.jpg">
+					<p class="produto-descricao">Arrumamos sua bike por completo perfeitamente,vendemos bikes de qualidade máxima </p>
+					<p class="produto-preco">consultar valores</p>
+				</li>
+				<li>
+					<h2>Localizaçâo</h2>
+					<img src="gordon.jpg">
+					<p class="produto-descricao">venha ver de perto nossa oficina! </p>
+					<p class="produto-preco">ver no mapa</p>
+				</li>
+			</ul>
+		</main>
 
-
-
-
-nav li {
-    display: inline;
-    margin: 0 0 0 15px;
- }
-
-nav a {
-    text-trasnform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
- }
+		<footer>
+			<img src="logo-branco.png">
+			<p class="copyright">&copy; Wg</p>
+		</footer>
+	</body>
+</html>
